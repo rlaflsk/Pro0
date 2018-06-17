@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Log.d("###", "stash test");
 
         Log.d("###", "github change");
+
+        Log.d("###", "push2");
     }
 
     @Override
