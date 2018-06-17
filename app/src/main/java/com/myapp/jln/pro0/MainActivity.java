@@ -31,8 +31,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         buttonNews.setOnClickListener(this);
         buttonGraduate.setOnClickListener(this);
 
-        Log.d("###", "branch");
-
+        Log.d("###", "comm1");
+        Log.d("###", "comm2");
     }
 
     @Override
