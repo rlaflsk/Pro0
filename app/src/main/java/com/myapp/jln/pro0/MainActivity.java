@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         buttonGraduate.setOnClickListener(this);
 
         Log.d("###", "comm1");
-        
+
 
     }
 
