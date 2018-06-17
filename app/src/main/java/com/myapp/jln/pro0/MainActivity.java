@@ -2,6 +2,7 @@ package com.myapp.jln.pro0;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.*;
 
@@ -29,7 +30,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         buttonReader.setOnClickListener(this);
         buttonNews.setOnClickListener(this);
         buttonGraduate.setOnClickListener(this);
-        
+
+        Log.d("###", "stash test");
+
         Log.d("###", "github change");
 
         Log.d("###", "push2");
