@@ -32,6 +32,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         buttonGraduate.setOnClickListener(this);
 
         Log.d("###", "github change");
+
+        Log.d("###", "push2");
+
+        Log.d("###", "stash test");
     }
 
     @Override
