@@ -31,14 +31,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         buttonNews.setOnClickListener(this);
         buttonGraduate.setOnClickListener(this);
 
-        //9
-
-        //10
-
-        //11
-
-        //11
-
     }
 
     @Override
