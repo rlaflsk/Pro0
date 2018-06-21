@@ -32,10 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         buttonGraduate.setOnClickListener(this);
 
         Log.d("###", "fetch");
-
-
-        Log.d("###", "commit1");
-        Log.d("###", "commit2");
+        
 
     }
 
