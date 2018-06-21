@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         Log.d("###", "commit1");
         Log.d("###", "commit2");
+
     }
 
     @Override
