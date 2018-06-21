@@ -19,8 +19,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //sdf
-
         buttonMovie = (Button)findViewById(R.id.buttonMovie);
         buttonShare = (Button)findViewById(R.id.buttonShare);
         buttonReader = (Button)findViewById(R.id.buttonReader);
@@ -32,11 +30,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         buttonReader.setOnClickListener(this);
         buttonNews.setOnClickListener(this);
         buttonGraduate.setOnClickListener(this);
-
-        //11
-
-        //22
-
     }
 
     @Override
